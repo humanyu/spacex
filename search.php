@@ -41,7 +41,7 @@ if(isset($_REQUEST['land_success'])){
    <h4 style="font-weight:bold;">SpaceX Launch Program</h4>
 
    <div class="col-md-12">
-   <div class="col-md-3">
+   <div class="col-md-3 d-none">
    <p><b>Filters</b></p>
    <p class="text-center" style="border-bottom:1px solid black;">Launch years</p>
 
